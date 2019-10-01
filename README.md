@@ -7,4 +7,4 @@ Creating is something I have always craved and loved passionately. I believe tha
 I am a creator/filmmaker, creating unique visual pieces for various social media platforms.
 
 - **[Instagram](https://instagram.com/aleexheealy/)
--**[Vimeo]()
+- **[Vimeo](https://vimeo.com/alexandrahealy)
