@@ -8,3 +8,5 @@ I am a creator/filmmaker, creating unique visual pieces for various social media
 
 - **[Instagram](https://instagram.com/aleexheealy/)
 - **[Vimeo](https://vimeo.com/alexandrahealy)
+
+© Alex Healy
