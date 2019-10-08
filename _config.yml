@@ -1,2 +1,19 @@
 permalink: pretty
 theme: jekyll_patternbot
+patternbot:
+  title: "Portfolio"
+  description: |
+    I am a creator/filmmaker, creating unique visual pieces for various social media platforms.
+  font-url: "https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:300,400,500,700,900&display=swap"
+  colors:
+    background: "--color-primary-light"
+    accent: "--color-primary-dark"
+    patterns:
+      brand.logos: "--color-secondary"
+  rationales:
+    typefaces.primary: |
+      Open Sans was selected because it is a classic and clean font that can be easily read on different screen sizes and styles. Open Sans is to be used for all body coy.
+    typfaces.secondary: |
+      Roboto Condensed was selected as a secondary typface for all headings, buttons and banners. It is to be used to highlight the important text.
+    colors.primary: |
+      The primary colours represent
