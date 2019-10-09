@@ -4,7 +4,7 @@ patternbot:
   title: "Portfolio"
   description: |
     I am a creator/filmmaker, creating unique visual pieces for various social media platforms.
-  font-url: "https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:300,400,500,700,900&display=swap"
+  font_url: "https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:300,400,500,700,900&display=swap"
   colors:
     background: "--color-primary-light"
     accent: "--color-primary-dark"

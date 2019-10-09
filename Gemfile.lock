@@ -73,3 +73,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll_patternbot
+
+BUNDLED WITH
+   1.17.3
