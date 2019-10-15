@@ -1,0 +1,12 @@
+.project-title {
+  color: var(--color-primary);
+}
+
+h3 {
+  letter-spacing: 3px;
+  font-weight: 400;
+}
+
+hr {
+  width: 50px;
+}
