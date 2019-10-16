@@ -1,0 +1,7 @@
+description: |
+  The footer is created with a simple design that is responsive with different sizes. The Footer can be combined with buttons and grids and navigation, while it is to be used on every page throughout a site.
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      The footer will inlcude the contact information and will be used as the navigation to the social link sites.

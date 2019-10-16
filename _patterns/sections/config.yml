@@ -1,0 +1,12 @@
+description: |
+  The sections are to be used throughout the website in the areas that include large amounts of content where there are multiple sections and elements. Sections can be combined with text, images, buttons cards as well as navigation.
+
+patterns:
+  text-section:
+    title: "Text Section"
+    description: |
+      The Text Section is to be used as the project page descriptions. It will showcase the goals and what was done in order to create the piece. This section can be combined with icons and text.
+  image-grid:
+    title: "Image Grid"
+    description: |
+      The image grid will showcase the important and most visually appealing still images of the project.

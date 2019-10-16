@@ -6,10 +6,12 @@
 a {
   text-decoration: none;
   color: var(--color-primary-dark);
+  letter-spacing: 1px;
 }
 
 a:hover {
   font-weight: 800;
-  transform: scale(1.05);
-  transition: all 200ms linear;
+  transform: scale(1.09);
+  transition: all 10ms linear;
+  letter-spacing: 3px;
 }
