@@ -1,0 +1,8 @@
+description: |
+  The card section is used where there is a section that inludes multiple pieces, creating a card style. Cards can be combined with icons, buttons as well as sections.
+
+patterns:
+  project-card:
+    title: "Project Card"
+    description: |
+      The card will be used as the navigation to the project page. It will be seen on the main home page.

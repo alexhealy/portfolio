@@ -9,4 +9,4 @@ patterns:
   video-banner:
     title: "Video Banner"
     description: |
-      The Video Banner can be used as the header for the home page. It will include the video reel.
+      The Video Banner can be used as the header for the home page. It will include the video reel. It can also be used as the video section on the project pages.
