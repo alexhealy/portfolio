@@ -19,3 +19,16 @@ p {
   max-width: 50%;
   color: var(--color-accent);
 }
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.create {
+  font-weight: 300;
+}
+
+.img-flex {
+  style: float;
+}
