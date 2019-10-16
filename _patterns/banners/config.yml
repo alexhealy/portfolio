@@ -1,0 +1,12 @@
+description: |
+  The banner section is to be used where there is need for a call-to-action or to summarize the section of the page. Banners can be combined with buttons.
+
+patterns:
+  image-banner:
+    title: "Image Banner"
+    description: |
+      The Image Banner can be used in the header of each page. It will be used for the project pages as well as the about page.
+  video-banner:
+    title: "Video Banner"
+    description: |
+      The Video Banner can be used as the header for the home page. It will include the video reel.
