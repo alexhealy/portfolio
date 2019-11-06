@@ -13,9 +13,9 @@ patternbot:
       brand.logos: "--color-secondary"
   rationales:
     typefaces.primary: |
-      Open Sans was selected because it is a classic and clean font that can be easily read on different screen sizes and styles. Open Sans is to be used for all body coy.
-    typfaces.secondary: |
       Roboto Condensed was selected as a secondary typface for all headings, buttons and banners. It is to be used to highlight the important text.
+    typfaces.secondary: |
+      Open Sans was selected because it is a classic and clean font that can be easily read on different screen sizes and styles. Open Sans is to be used for all body copy.
     colors.primary: |
       The primary colours represent
   layouts:
