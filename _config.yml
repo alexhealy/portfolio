@@ -17,7 +17,7 @@ patternbot:
     typfaces.secondary: |
       Open Sans was selected because it is a classic and clean font that can be easily read on different screen sizes and styles. Open Sans is to be used for all body copy.
     colors.primary: |
-      The primary colours represent
+      The primary colours are the colours that will be used throughout the entire website.
   layouts:
     default: |
       The default layout should be used for almost every page, it includes the website's primary header & footer.

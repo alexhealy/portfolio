@@ -10,3 +10,8 @@ patterns:
     title: "Image Grid"
     description: |
       The image grid will showcase the important and most visually appealing still images of the project.
+  text-image-section:
+    title: "Text Image Section"
+    description: |
+      The Text Image Section is to be used as the About page. It will showcase who I am as an individual and what I do. This section can be combined with icons and text.
+  image-grid:
