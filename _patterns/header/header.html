@@ -1,6 +1,6 @@
 <div class="grid grid-middle text-center">
   <div class="unit xs-1-3">
-    <a href="#">PORTFOLIO</a>
+    <a class="{% if page.highlight_nav == 'portfolio' %}current{% endif %}" href="/">PORTFOLIO</a>
   </div>
   <div class="unit xs-1-3">
     <div class="embed embed-3by2 image-size">
@@ -10,6 +10,6 @@
     </div>
   </div>
   <div class="unit xs-1-3">
-    <a href="#">ABOUT</a>
+    <a class="{% if page.highlight_nav == 'about' %}current{% endif %}"  href="/about/">ABOUT</a>
   </div>
 </div>

@@ -1,0 +1,6 @@
+# robotstxt.org
+
+Sitemap: http://alexhealy.ca/sitemap.xml
+
+User-Agent: *
+Disallow:

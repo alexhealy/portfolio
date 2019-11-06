@@ -5,6 +5,10 @@
 }
 
 .btn:hover {
-  color: var(--color-primary);
+  color: #fff;
+  transition: all 300ms linear;
+}
 
+a {
+  font-family: var(--font-secondary) !important;
 }

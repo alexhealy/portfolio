@@ -1,5 +1,6 @@
 permalink: pretty
 theme: jekyll_patternbot
+
 patternbot:
   title: "Portfolio"
   description: |
@@ -17,3 +18,6 @@ patternbot:
       Roboto Condensed was selected as a secondary typface for all headings, buttons and banners. It is to be used to highlight the important text.
     colors.primary: |
       The primary colours represent
+  layouts:
+    default: |
+      The default layout should be used for almost every page, it includes the website's primary header & footer.

@@ -15,3 +15,7 @@ a:hover {
   transition: all 10ms linear;
   letter-spacing: 3px;
 }
+
+.current {
+  text-decoration: line-through;
+}
