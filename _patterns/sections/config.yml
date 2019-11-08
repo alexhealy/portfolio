@@ -6,10 +6,10 @@ patterns:
     title: "Text Section"
     description: |
       The Text Section is to be used as the project page descriptions. It will showcase the goals and what was done in order to create the piece. This section can be combined with icons and text.
-  image-grid:
+  Image-grid:
     title: "Image Grid"
     description: |
-      The image grid will showcase the important and most visually appealing still images of the project.
+      The image grid will showcase the important and most visually appealing still images of each project.
   text-image-section:
     title: "Text Image Section"
     description: |

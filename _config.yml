@@ -14,10 +14,14 @@ patternbot:
   rationales:
     typefaces.primary: |
       Roboto Condensed was selected as a secondary typface for all headings, buttons and banners. It is to be used to highlight the important text.
-    typfaces.secondary: |
+    typefaces.secondary: |
       Open Sans was selected because it is a classic and clean font that can be easily read on different screen sizes and styles. Open Sans is to be used for all body copy.
     colors.primary: |
-      The primary colours are the colours that will be used throughout the entire website.
+      The Primary Colours are the colours that will be used as the headers and important information.
+    colors.secondary: |
+      The Secondary Colours will be used as the body copy throughout the website's content.
+    colors.accent: |
+      The Accent colours are the colours that will be used to highlight important text within the body copy.
   layouts:
     default: |
       The default layout should be used for almost every page, it includes the website's primary header & footer.
