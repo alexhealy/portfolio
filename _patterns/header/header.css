@@ -18,4 +18,6 @@ a:hover {
 
 .current {
   text-decoration: line-through;
+  font-weight: 800;
+  letter-spacing: 3px;
 }

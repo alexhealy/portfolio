@@ -6,7 +6,15 @@ patterns:
     title: "Image Banner"
     description: |
       The Image Banner can be used in the header of each page. It will be used for the project pages as well as the about page.
+    fields:
+      - name: image
+        type: string
+        example: "banner-1.jpg"
   video-banner:
     title: "Video Banner"
     description: |
       The Video Banner can be used as the header for the home page. It will include the video reel. It can also be used as the video section on the project pages.
+    fields:
+      - name: url
+        type: url
+        example: "https://player.vimeo.com/video/322915094?autoplay=1&loop=1"

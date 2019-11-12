@@ -25,3 +25,5 @@ patternbot:
   layouts:
     default: |
       The default layout should be used for almost every page, it includes the website's primary header & footer.
+    default: |
+      The default layout should be used for almost every page, it includes the website's primary header & footer.

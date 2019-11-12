@@ -6,12 +6,43 @@ patterns:
     title: "Text Section"
     description: |
       The Text Section is to be used as the project page descriptions. It will showcase the goals and what was done in order to create the piece. This section can be combined with icons and text.
-  Image-grid:
+    fields:
+      - name: title
+        type: string
+        example: "HUES"
+      - name: project-type
+        type: string
+        example: "LOGO ANIMATION"
+      - name: first-description
+        type: string
+        example: "“Specialty Coffee in all it's Hues”. Hues is a non for profit organization entered on organizing educational events in order to fund trips from origin."
+      - name: second-description
+        type: string
+        example: "Branded, designed and created logo animation using Adobe Illustrator and After Effects."
+  image-grid:
     title: "Image Grid"
     description: |
       The image grid will showcase the important and most visually appealing still images of each project.
+    fields:
+      - name: image-1
+        type: string
+        example: "hues-pic.jpg"
+      - name: image-2
+        type: string
+        example: "hues-pic.jpg"
+      - name: image-3
+        type: string
+        example: "hues-pic.jpg"
+      - name: image-4
+        type: string
+        example: "hues-pic.jpg"
+      - name: image-5
+        type: string
+        example: "hues-pic.jpg"
+      - name: image-6
+        type: string
+        example: "hues-pic.jpg"
   text-image-section:
     title: "Text Image Section"
     description: |
       The Text Image Section is to be used as the About page. It will showcase who I am as an individual and what I do. This section can be combined with icons and text.
-  image-grid:
