@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Forest Doodles · Alex Healy</title>
+    <meta name="description" content="This page will show my rotoscoping and editing skills.">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/css/main.css">
+    <meta name="ICBM" content="45.41117,-75.69812">
+    <meta name="geo.position" content="45.41117,-75.69812">
+    <meta name="geo.region" content="ca-on">
+    <meta name="geo.placement" content="Ottawa">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:300,400,500,700,900&display=swap">
+  </head>
+  <body>
+
+    {% pattern header/header %}
+    {{content}}
+    {% pattern footer/footer %}
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Alex Healy"
+        "email": "aleexheealy@hotmail.com"
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "41 Spadina Ave",
+          "addressLocality": "Ottawa",
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "postalCode": "K1Y 2B8"
+        }
+      }
+    </script>
+
+  </body>
+</html>
