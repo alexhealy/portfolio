@@ -17,4 +17,4 @@ patterns:
     fields:
       - name: url
         type: url
-        example: "https://player.vimeo.com/video/322915094?autoplay=1&loop=1"
+        example: "motion-reel.mp4"
