@@ -5,8 +5,8 @@
   --color-secondary: #2b2829;
   --color-accent: #474747;
 
-  --font-primary: "Roboto", sans-serif;
-  --font-secondary: "Open Sans", sans-serif;
+  --font-secondary: "Roboto Condensed", sans-serif;
+  --font-primary: "Open Sans", sans-serif;
 
 }
 
@@ -15,9 +15,9 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
 }
 
 p {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
 }
