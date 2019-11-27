@@ -6,20 +6,32 @@
 a {
   text-decoration: none;
   color: var(--color-primary-dark);
-  letter-spacing: 8px;
-  font-family: 'Roboto Condensed', sans-serif;
+  letter-spacing: 5px;
+  font-size: 20px;
 }
 
 a:hover {
   font-weight: 800;
   transform: scale(1.09);
   transition: all 5ms linear;
-  letter-spacing: 10px;
+  letter-spacing: 8px;
 }
 
 .current {
   text-decoration: line-through;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 8px;
-  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.logo {
+  max-width: 64px;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .logo {
+    max-width: 150px;
+  }
+
 }

@@ -5,7 +5,7 @@
 }
 
 .card:hover .card-text {
-  display: flex;
+  display: block;
 }
 
 .card:hover img {

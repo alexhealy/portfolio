@@ -3,8 +3,9 @@
 }
 
 h3 {
-  letter-spacing: 3px;
-  font-weight: 400;
+  letter-spacing: 7px;
+  font-weight: 300;
+  font-size: 18px;
 }
 
 hr {
@@ -12,7 +13,7 @@ hr {
 }
 
 h2 {
-  letter-spacing: 2px;
+  letter-spacing: 4px;
 }
 
 p {
