@@ -1,23 +1,25 @@
 .image-size {
-  max-width: 200px;
+  max-width: 150px;
   margin: 0 auto;
 }
 
 a {
   text-decoration: none;
   color: var(--color-primary-dark);
-  letter-spacing: 1px;
+  letter-spacing: 8px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 a:hover {
   font-weight: 800;
   transform: scale(1.09);
-  transition: all 10ms linear;
-  letter-spacing: 3px;
+  transition: all 5ms linear;
+  letter-spacing: 10px;
 }
 
 .current {
   text-decoration: line-through;
-  font-weight: 800;
-  letter-spacing: 3px;
+  font-weight: 500;
+  letter-spacing: 8px;
+  font-family: 'Roboto Condensed', sans-serif;
 }

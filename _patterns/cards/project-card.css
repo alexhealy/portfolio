@@ -1,6 +1,7 @@
 .card .card-text {
   display: none;
   color: var(--color-primary-light);
+  font-weight: 400;
 }
 
 .card:hover .card-text {
@@ -8,7 +9,7 @@
 }
 
 .card:hover img {
-  filter: brightness(40%);
+  filter: brightness(25%);
   transform: scale(1.05);
   transition: all 300ms linear;
 }

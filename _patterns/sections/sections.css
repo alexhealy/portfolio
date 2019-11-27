@@ -24,6 +24,11 @@ p {
   flex-wrap: wrap;
 }
 
+grid:hover {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .create {
   font-weight: 300;
 }
