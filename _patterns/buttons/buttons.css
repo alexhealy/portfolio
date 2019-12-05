@@ -1,12 +1,14 @@
 .btn {
   color: var(--color-primary-dark);
-  border-color: var(--color-primary-dark);
+  border-color: var(--color-primary-light);
   background-color: var(--color-primary-light);
 }
 
 .btn:hover {
-  color: #fff;
-  transition: all 200ms linear;
+  transition: all 100ms linear;
+  background-color: var(--color-primary-light);
+  color: var(--color-primary-dark);
+  border-color: var(--color-primary-light);
 }
 
 a {
