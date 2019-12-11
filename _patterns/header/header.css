@@ -20,7 +20,7 @@ a:hover {
 .current {
   text-decoration: line-through;
   font-weight: 400;
-  letter-spacing: 8px;
+  letter-spacing: 5px;
 }
 
 .logo {
@@ -32,6 +32,10 @@ a:hover {
 
   .logo {
     max-width: 150px;
+  }
+
+  .current {
+    letter-spacing: 8px;
   }
 
 }
