@@ -32,15 +32,10 @@ a:hover {
 
   .logo {
     max-width: 150px;
-    margin-right: auto;
   }
 
   .current {
     letter-spacing: 5px;
-  }
-
-  .about {
-    margin-left: auto;
   }
 
 }
