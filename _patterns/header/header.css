@@ -32,6 +32,7 @@ a:hover {
 
   .logo {
     max-width: 150px;
+    align-content: right;
   }
 
   .current {
