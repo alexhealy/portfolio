@@ -38,4 +38,8 @@ a:hover {
     letter-spacing: 5px;
   }
 
+  .desktop {
+    display: none;
+  }
+
 }
